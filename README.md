@@ -1,4 +1,5 @@
-# HarmonyOS-ArkUI-X-Hlpe(ArkUI-X C++14 / HarmonyOS 6.0.1)
+# HarmonyOS-ArkUI-X-Hlpe
+### 环境：ArkUI-X C++14 / HarmonyOS 6.0.1
 解决一些新建的鸿蒙ArkUI-X项目一运行就报错的一些方法
 
 要在新项目中通过编译并运行，请直接修改以下 **4 个文件**。
